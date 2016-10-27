@@ -1,0 +1,13 @@
+{
+  "name": "campgrounds",
+  "version": "1.0.0",
+  "description": "A campground discovery app",
+  "main": "app.js",
+  "author": "Selvin Ortiz <selvin@selvin.co>",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.7"
+  }
+}
